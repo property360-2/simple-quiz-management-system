@@ -1,0 +1,5 @@
+Actors
+Admin - Manages users, departments, and sections.
+Professor - Creates assessments and evaluates results.
+Student - Takes assessments and views scores.
+
